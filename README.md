@@ -1,5 +1,5 @@
 # pdns-scala
-Attempt at a Scala transaltion of CIRCL.LU's PyPDNS Python module https://github.com/CIRCL/PyPDNS
+Attempt at a Scala translation of CIRCL.LU's PyPDNS Python module https://github.com/CIRCL/PyPDNS
 
 # Example Usage
 ```scala
