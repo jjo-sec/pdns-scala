@@ -2,6 +2,8 @@ package pdns.scala
 
 import scalaj.http._
 import org.json4s._
+import org.json4s.native.JsonMethods._
+
 
 /** Represents a Common Output Format formatted result */
 case class COFQueryResponse(count: Int,time_first: Int, time_last: Int, rrname: String, rrtype: String, rdata: String)
